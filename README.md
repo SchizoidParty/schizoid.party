@@ -1,7 +1,5 @@
 # schizoid.party
 My website made with HUGO.
 
-
-## Thanks
-
-I would like to thank (Luke Smith)[https://lukesmith.xyz] for making the `Lugo` hugo theme.
+This is the source code of my website. 
+I based the theme off of (Luke Smith)[https://lukesmith.xyz]'s (LUGO)[https://github.com/LukeSmithxyz/lugo] theme with my own customizations
