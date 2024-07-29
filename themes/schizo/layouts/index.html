@@ -5,7 +5,7 @@
 {{ .Content }}
 
 <style>
-p {
+.center {
     text-align: center ;
 }
 h3 {
@@ -13,9 +13,31 @@ h3 {
 }
 </style>
 
-<p>I am Skiz, this is my webpage. Thank you for visiting my site.</p> 
-<p>Add my RSS feed to stay updated: <a href="index.xml">RSS FEED</a>.</p>
+<div class="center">
+    <p>I am Skiz, this is my webpage. Thank you for visiting my site.</p> 
+    <p>Add my RSS feed to stay updated: <a href="index.xml">RSS FEED</a>.</p>
 
+    <hr>
+
+    <p>
+        I plan to use this site to share my thoughts, opinions, and knowledge; On certain topics. 
+
+        <h3>Site info:</h3>
+        This website is hosted on FreeBSD with NGINX as the web server. I use
+        HUGO to make the site and the theme is a modified version of Luke
+        Smith's LUGO theme.
+    </p>
+    <h3>Site links:</h3>
+</div>
+
+<ul>
+    <li><a href="/articles/">Blog</a></li>
+    <li><a href="/contact/">Contact</a></li>
+    <li><a href="https://ftp.schizoid.party/">FTP Directory</a></li>
+</ul>
+
+
+<!--
 <h3>Posts</h3>
 
 <ul>
@@ -33,5 +55,6 @@ h3 {
 </li>
 {{- end }}
 </ul>
+-->
 {{- end }}
 
