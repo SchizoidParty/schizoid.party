@@ -9,7 +9,7 @@ I encoded Denshi's [Little Dark Age: Computing](https://odysee.com/@DenshiVideo:
 
 <div style="text-align: center;">
 <video width="640" height="360" controls>
-  <source src="/lildarkagecomputing.webm" type="video/mp4">
+  <source src="https://ftp.schizoid.party/Videos/lildarkagecomputing.webm" type="video/webm">
   **Your browser does not support the video tag.**
 </video>
 </div>
