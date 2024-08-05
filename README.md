@@ -1,3 +1,6 @@
+# I have moved the git repo to my own stie: "https://git.schizoid.party/schizoidparty.git/"
+
+
 # schizoid.party
 My website made with HUGO.
 
